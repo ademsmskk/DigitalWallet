@@ -21,7 +21,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.MapCarter();
+app.ma.MapCarter.MapCarter();
 
 app.Run();
  
